@@ -1,7 +1,7 @@
-package java.za.co.entelect.training.domain;
+package za.co.entelect.training;
 
-import java.za.co.entelect.training.domain.user.Trainee;
-import java.za.co.entelect.training.domain.user.Trainer;
+import za.co.entelect.training.user.Trainee;
+import za.co.entelect.training.user.Trainer;
 
 import java.time.LocalTime;
 import java.util.LinkedHashSet;

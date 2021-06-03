@@ -1,4 +1,4 @@
-package java.za.co.entelect.training.domain.user;
+package za.co.entelect.training.user;
 
 public class User {
 

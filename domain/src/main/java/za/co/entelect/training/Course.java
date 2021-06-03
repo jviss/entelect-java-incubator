@@ -1,6 +1,6 @@
-package java.za.co.entelect.training.domain;
+package za.co.entelect.training;
 
-import java.za.co.entelect.training.domain.user.Trainee;
+import za.co.entelect.training.user.Trainee;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
