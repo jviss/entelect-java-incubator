@@ -26,7 +26,6 @@
                     <release>${java.version}</release>
                 </configuration>
             </plugin>
-
         </plugins>
     </build>
 </project>
